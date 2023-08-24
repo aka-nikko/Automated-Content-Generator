@@ -18,7 +18,7 @@ comm_length = 30
 #               Amy, Geraint, Nicole, Justin, Ivy, Kendra, Salli, Raveena
 tts_voice = "Matthew"
 
-#Choose a Video for Background
+#Choose a Video for Background (You need to download videos and place them in assets/backgrounds folder.)
 video_list = ["minecraft1.mp4", 
               "minecraft2.mp4", 
               "hot_wheels.mp4", 
